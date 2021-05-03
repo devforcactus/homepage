@@ -6,11 +6,3 @@ main{
     background: Khaki;
     color: Khaki;
 }
-
-.highlight{
-    transition: transform 0.5s;
-}
-.highlight:hover{
-    transform: scale(1.05, 1.05);
-    box-shadow: 4px 4px 7px 1px rgba(147, 165, 65, 0.2);
-}
